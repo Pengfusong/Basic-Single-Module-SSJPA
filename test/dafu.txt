@@ -1,0 +1,6 @@
+public String Saylove(){
+	
+	system.out.pritln("what do you want ")
+	return "programmer"
+
+}
